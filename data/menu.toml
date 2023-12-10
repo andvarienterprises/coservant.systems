@@ -1,0 +1,23 @@
+[[entries]]
+title = 'info'
+
+  [[entries.entries]]
+  title = "An Advisory and Consultancy for Busy Teams"
+
+  [[entries.entries.entries]]
+  title = "Why?"
+  url = "why"
+
+  [[entries.entries]]
+  title = "Dave's Profile and Publications" 
+  url = "https://log.andvari.net/pages/about.html"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "more..."
+  sho_more_url = "posts"
+
