@@ -12,6 +12,8 @@ jobs:
       id-token: 'write'
     steps:
     - uses: actions/checkout@v4
+      with:
+        submodules: 'recursive'
     - uses: jakejarvis/hugo-build-action@v0.111.3
       with:
         args: --minify --buildDrafts
