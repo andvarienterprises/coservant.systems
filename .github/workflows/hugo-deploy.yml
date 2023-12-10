@@ -16,7 +16,7 @@ jobs:
         submodules: 'recursive'
     - uses: jakejarvis/hugo-build-action@v0.111.3
       with:
-        args: --minify --buildDrafts
+        args: --minify
     - id: 'google-auth'
       uses: 'google-github-actions/auth@v1'
       with:
