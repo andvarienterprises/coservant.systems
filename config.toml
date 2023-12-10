@@ -1,6 +1,6 @@
 baseURL = 'http://coservant.systems/'
 languageCode = 'en-us'
-title = 'Coservant Systems'
+title = 'Co-Servant Systems'
 theme = 'nostyleplease'
 
 [module]
