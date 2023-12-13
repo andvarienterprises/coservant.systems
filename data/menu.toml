@@ -4,10 +4,11 @@ title = "An Advisory and Consultancy for Busy Teams"
 [[entries.entries]]
 title = "Why?"
 url = "why"
-[[entries.entries.entries]]
-title = "The Robots Work for Us"
-[[entries.entries.entries]]
-title = "Let Humans be Humans"
+
+[[entries.entries]]
+title = "How?"
+url = "how"
+
 
 [[entries]]
 title = "Profile and Publications" 
