@@ -28,4 +28,4 @@ The approach I take generally consists of two complementary approaches:
 
 The overarching goal is to enable cultural and values-based changes that will far outlast my involvement. The model of engagement (embed with the team, assess via review, etc.) is up to you.
 
-I have extensive experience in all the above, at planet-level scales. I wrote the [chapter](https://sre.google/sre-book/dealing-with-interrupts/) of the Google SRE book on busy teams. See my [profile](https://log.andvari.net/pages/about.html) for more.
+I have extensive experience in all the above, at planet-level scale. I wrote the [chapter](https://sre.google/sre-book/dealing-with-interrupts/) of the Google SRE book on busy teams. See my [profile](https://log.andvari.net/pages/about.html) for more.

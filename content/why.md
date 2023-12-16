@@ -6,7 +6,7 @@ draft: false
 
 What's a busy team? Aren't all teams busy? Isn't that the intention?
 
-You want a team to be the right size in orer to fulfil its mandate, but you also want to make sure the work they're doing is of good quality and fulfils the human needs of the team itself.
+You want a team to be the right size in order to fulfil its mandate, but you also want to make sure the work they're doing is of good quality and fulfils the human needs of the team itself.
 
 Human effort is increasingly precious, and scarce when it comes to the amount of "busy-work" to do. The era of insisting that humans do menial work is increasingly past, as that work scales beyond our capability.
 
@@ -15,12 +15,12 @@ Even as we breathlessly hail the advent of Generative AI as being the death-knel
 I've spent my entire working life working with:
 
   - Systems that require humans to feed them time, energy and effort by design.
-  - The humans that insist on making them.
+  - The humans that insist on making them that way.
 
-We set up systems that require us to constantly interact with them; either through deficiency of capability, or often intentionally. 
+We make systems that require us to constantly interact with them; either through deficiency of capability, or often intentionally. 
 
-Be busy with work that's for humans.
+The robots work for us.
 
 Reject "busy work".
 
-The robots work for us.
+Be busy with work that's for humans.
