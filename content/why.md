@@ -10,7 +10,7 @@ You want a team to be the right size in order to fulfil its mandate, but you als
 
 Human effort is increasingly precious, and scarce when it comes to the amount of "busy-work" to do. The era of insisting that humans do menial work is increasingly past, as that work scales beyond our capability.
 
-Even as we breathlessly hail the advent of Generative AI as being the death-knell of menial human tasks, there's work to be done purely to ensure we go about our business in a data-driven, human-centric way. The barrier is not technology - it is methodology, culture and practice.
+Even as we breathlessly hail the advent of Generative AI as being the death-knell of menial human tasks, there's work to be done purely to ensure we go about our business in a data-driven, human-centric way. The barrier is often not technology - it is methodology, culture and practice.
 
 I've spent my entire working life working with:
 
