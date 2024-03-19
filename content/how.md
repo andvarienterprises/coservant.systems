@@ -1,15 +1,16 @@
 ---
 title: "How"
-date: 2023-12-13
+date: 2024-03-19
 draft: false
 ---
 
 I offer a consultancy and advisory service that specialises in teams that are busy.
 
-What that means is:
+What that means can include:
 
  - Teams that are doing more 'tactical' day-to-day work than they should be.
  - Teams that feel like they're not sure what success looks like; that want to demonstrate to their stakeholders that they're doing important work.
+ - Teams that are trying to modernise processes, technology and organisational design, and aren't sure where to start (or continue!)
  - Teams that may be struggling with motivation, attrition or mild to major existential crises based on any or all of the above.
 
 The approach I take generally consists of two complementary approaches:
@@ -24,6 +25,7 @@ The approach I take generally consists of two complementary approaches:
  - Human
    - Team charter remit workshopping. Team reboot planning with existing leadership.
    - Building and developing good inter-team relationships across timezones.
+   - Key guidance around ownership, sponsoring of key folks and building on existing capabilities.
    - Specific coaching/mentoring for key team members and leadership. See also [my coaching practice](https://www.strategichopes.co).
 
 The overarching goal is to enable cultural and values-based changes that will far outlast my involvement. The model of engagement (embed with the team, assess via review, etc.) is up to you.
