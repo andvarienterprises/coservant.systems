@@ -1,40 +1,83 @@
 baseURL = 'http://coservant.systems/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Co-Servant Systems'
-theme = 'nostyleplease'
+theme = 'soho'
 
-[module]
-  [module.hugoVersion]
-    extended=true
-    min = "0.41.0"
+enableInlineShortcodes = true
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.parser]
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ''
-    hl_inline = false
-    lineAnchors = ''
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    noHl = false
-    style = 'rrt'
-    tabWidth = 4
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 3
-    ordered = false
+summarylength = 10
+enableEmoji = true
 
 [params]
-  [params.theme_config]
-    appearance = "auto"
-    back_home_text = "<--"
-    date_format = "2006-01-02"
+author = "Co-Servant Systems"
+mainSections = ["post"]
+#description = "Blog"
+
+## Set one of:
+# gravatar = "soho@example.com"
+profilePicture = "images/coservant.png"
+
+copyright = "Co-Servant Systems"
+#license = "CC BY-SA 4.0"
+#licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+## Set custom CSS and/or JS to override site defaults.
+#customCss = ["css/blog.css"]
+#customJs = ["js/blog.js"]
+
+
+[menu]
+
+  [[menu.main]]
+  name = "The Work"
+  identifier = "why"
+  weight = 100
+  url = "/why/"
+
+  [[menu.main]]
+  name = "The Method"
+  identifier = "how"
+  weight = 200
+  url = "/how/"
+
+  [[menu.main]]
+  name = "The Method"
+  identifier = "how"
+  weight = 300
+  url = "/how/"
+
+  [[menu.main]]
+  name = "Profile (offsite)"
+  identifier = "profile"
+  weight = 400
+  url = "https://log.andvari.net/pages/about.html"
+
+  [[menu.main]]
+  name = "Portfolio"
+  identifier = "what"
+  weight = 500
+  url = "/what/"
+
+
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4

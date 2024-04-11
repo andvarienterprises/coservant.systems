@@ -1,5 +1,5 @@
 ---
-title: "How"
+title: "The Method"
 date: 2024-03-19
 draft: false
 ---
