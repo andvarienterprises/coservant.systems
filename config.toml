@@ -11,7 +11,7 @@ enableEmoji = true
 [params]
 author = "Co-Servant Systems"
 mainSections = ["post"]
-#description = "Blog"
+description = "coservant.systems"
 
 ## Set one of:
 # gravatar = "soho@example.com"
